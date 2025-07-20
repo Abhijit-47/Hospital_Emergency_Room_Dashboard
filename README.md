@@ -5,6 +5,12 @@ This Excel-based interactive dashboard provides valuable insights into the opera
 
 ![Dashboard Screenshot](Final_Dashboard_Hospital.png)
 
+
+## 🖼️ Dashboard Demo
+
+![Demo](images/dashboard_demo.gif)
+
+
 ## 🎯 Purpose of the Project
 The purpose of this dashboard is to help hospital management and key stakeholders:
 
