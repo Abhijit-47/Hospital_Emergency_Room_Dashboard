@@ -8,7 +8,7 @@ This Excel-based interactive dashboard provides valuable insights into the opera
 
 ## 🖼️ Dashboard Demo
 
-![Demo](images/dashboard_demo.gif)
+![Demo](dashboard_demo.gif)
 
 
 ## 🎯 Purpose of the Project
